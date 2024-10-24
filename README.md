@@ -22,4 +22,4 @@
 
 ## ESTATÍSTICAS
 
-![BRICS GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Gustavo de Araujo GitHub stats](https://github-readme-stats.vercel.app/api?username=Araujo550&show_icons=true&theme=radical)
